@@ -1,0 +1,32 @@
+.headerfx{
+    background: white;
+    height: 200px;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: fixed;
+    z-index: 100;
+}
+
+.logoimg{
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+.navbar-custom {
+    color: #FFFFFF;
+    background-color: white;
+    padding-bottom: 25px;
+}
+
+.navbar-custom li {
+    color:black;
+    padding-right: 35px;
+}
+
+.navbar-custom a {
+    color:#474646;
+    padding-right: 25px;
+    font-family: 'Open sans';
+    font-size: 20px;
+    letter-spacing: 2px;
+}
