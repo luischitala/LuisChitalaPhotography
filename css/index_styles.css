@@ -1,6 +1,6 @@
 .headerfx{
     background: white;
-    height: 200px;
+    height: 150px;
     width: 100%;
     left: 0;
     top: 0;
@@ -15,12 +15,13 @@
 .navbar-custom {
     color: #FFFFFF;
     background-color: white;
-    padding-bottom: 25px;
+    padding-bottom: 50px;
 }
 
 .navbar-custom li {
     color:black;
     padding-right: 35px;
+    padding-top: 30px;
 }
 
 .navbar-custom a {
@@ -29,4 +30,17 @@
     font-family: 'Open sans';
     font-size: 20px;
     letter-spacing: 2px;
+}
+.mainfx img{
+    padding-left: 0;
+    margin-left: 0;
+    width: 100%;
+}
+
+.menu{
+    padding-bottom: 30px;
+}
+
+.menur{
+    padding-bottom: 30px;
 }
